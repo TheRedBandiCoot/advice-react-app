@@ -34,7 +34,7 @@ git clone https://github.com/TheRedBandiCoot/advice-react-app.git
 
 4. Now click the link which is provided in your terminal or you can write the url manually in your browser
 
-   - `http://localhost:3000/`.
+   - [LocalHost-(url)](http://localhost:3000)
    - You can also press `o` in your in the terminal for open the url automatically in your browser.
 
 5. Press `ctrl + c` or `q` in your terminal to close the server.
