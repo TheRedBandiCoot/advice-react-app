@@ -17,31 +17,33 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ## Installation Guide
 
-1. Clone the repository in local IDE using this code in your terminal :
+1. Clone the repository in your local IDE using this code in your terminal :
 
 ```git
 git clone https://github.com/TheRedBandiCoot/advice-react-app.git
 ```
 
-2. Run the code in you terminal and after successfully run the go to the new directory _advice-react-app_
+2. After successfully get the files in your local IDE go to the new directory _advice-react-app_
 
    - `cd advice-react-app`
 
-3. Now run this code for install dependencies and run the app at the same time.
+3. Now run this code for install dependencies and running the app at the same time.
 
    - `npm install && npm run dev`
-   - You can run `npm install` and `npm run dev` separately you got some error for installation or run it
+   - In case if you got some error for installation or run it, you can run `npm install` and `npm run dev` separately
 
-4. Now click the link which provides in the terminal or you can write the url manually in your browser
+4. Now click the link which is provided in your terminal or you can write the url manually in your browser
 
    - `http://localhost:3000/`.
-   - You can also press `o` in your in the terminal for open the url automatically in browser.
+   - You can also press `o` in your in the terminal for open the url automatically in your browser.
 
-5. Press `ctrl + c` or `q` in your to close the server.
+5. Press `ctrl + c` or `q` in your terminal to close the server.
 
-6. You can also change the server port configuration
+6. You can also change the server _port_ configuration
 
-   - Open `vite-config.js` & right after the plugin, add another obj called `server` & add create property a property called `port` in server & add value for your port.
+   - Open `vite-config.js`
+   - Right after the plugin, add another obj called `server`
+   - Create a property called `port` in your server & add value for your port.
 
    > Here is the code
 
@@ -55,7 +57,7 @@ git clone https://github.com/TheRedBandiCoot/advice-react-app.git
    });
    ```
 
-   - Make sure to restart the server by pressing `r` in the terminal for new changes.
+   - Make sure to restart the server by pressing `r` in your terminal for new changes.
 
 ## Overview
 
